@@ -80,7 +80,7 @@ assign x = ~(a&b);
 assign y = ~(a&b);
 assign z = ~(a&b);
 endmodule
-
+```
 ## *RTL realization Output:* 
 ![Screenshot 2024-08-29 144546](https://github.com/user-attachments/assets/5f26207d-4966-4fbc-aa01-99a5d210c9d1)
 
